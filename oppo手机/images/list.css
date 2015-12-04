@@ -1,0 +1,43 @@
+
+#list{
+	border:1px solid #ededed;
+	padding-bottom:90px;
+}
+#list #listtitle{
+	height:32px;
+	line-height:32px;
+	background:url(category_tit.gif);
+	
+}
+#list #listtitle h2{
+	width:100px;
+	color:#666666;
+	margin-left:10px;
+	float:left;
+}
+#list #listtitle #sort{
+	width:200px;
+	float:right;
+	margin:6px 20px 0px 0px;
+}
+#list #imglist{
+	clear:both;
+}
+#list #imglist ul li{
+	width:234px;
+	height:325px;
+	float:left;
+	text-align:center;
+}
+#list #imglist ul li #pic1{
+	padding-top:50px;
+ }
+#list  #imglist ul li p{
+	  color:#979693;
+  }
+#list #imglist ul li p.p1{
+	 text-decoration:line-through;
+ }
+#list #imglist ul li p.p2{
+	 color:#f6835d;
+ }
